@@ -79,3 +79,6 @@ For the design I used three main colors:
 #001C46
 #1385E5
 #CFECFF
+
+https://assignment-1-frontend-gamma.vercel.app
+link for the web-site
